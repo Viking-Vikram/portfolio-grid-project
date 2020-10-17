@@ -827,7 +827,7 @@ Blog
 	/* 2gaps*3rem = 6rem
  6rem = 96px
  (1170px-96px)/3 =  */
-	grid-template-columns: repeat(auto-fill, minmax(358px, 1fr));
+	grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
 }
 /*
 =============== 
